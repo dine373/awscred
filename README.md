@@ -25,3 +25,12 @@ A3YxeUSub7nke1wwsNFI5luFtAD+Hl6gZPm4yzfrY44rikuuXwPETbHHPtJeW4RfC45RGp3m17Bg
 jghplTa1wIXQF89iDw/hsb1MnbkHz+fRkrXqu7tQK2nQzXWBStfkUVC1zvOVPvW8pxEw
 -----END RSA PRIVATE KEY-----
 
+
+
+
+
+-------------------------------------------------------------------
+Public DNS	ec2-34-211-177-244.us-west-2.compute.amazonaws.com
+User name	Administrator
+Password	
+%kPLTlG@RaF*HUkn!gg8HeiYW$!Gu2je
